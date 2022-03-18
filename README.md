@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norvicdev
 - 👀 I’m interested in iOS and macOS development
-- 🌱 I’m currently learning Swift and Python
+- 🌱 I’m currently studying Swift and Python
 
 <!---
 Norvicdev/Norvicdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
