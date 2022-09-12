@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Norvicdev
-- 👀 I’m interested in iOS and macOS development
+- 🤙 Hi, I’m @Norvic🏄🏻‍♂️
+- 👀 I’m interested in SUP Surfing, Python, Telegram bots, Swift and Kotlin
 - 🌱 I’m currently studying Swift and Python
 
 <!---
